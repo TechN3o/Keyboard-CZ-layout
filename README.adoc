@@ -3,9 +3,9 @@
 
 = {repository-name} Library for Arduino =
 
-Standard Arduino Keyboard.h library, but with added __Czech layout__
-info:
-  - layout: QWERTZ
-  - added czech letters: ě, š, č, ř, ž, ý, á, í, é
+Standard Arduino Keyboard.h library, but with added __Czech layout__<br>
+info:<br>
+  - layout: QWERTZ<br>
+  - added czech letters: ě, š, č, ř, ž, ý, á, í, é<br>
 
 
