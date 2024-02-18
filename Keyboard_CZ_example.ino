@@ -6,11 +6,10 @@ Serial.begin(9600);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 if(Serial.available() > 0){
-  String var = Serial.readString(); 
+  String str = Serial.readString(); 
   delay(100);
-  Keyboard.print(var);
+  Keyboard.print(str);
   Serial.read();
 }
 }
