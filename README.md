@@ -1,7 +1,5 @@
-:repository-owner: arduino-libraries
-:repository-name: Keyboard
 
-= {repository-name} Library for Arduino =
+#Keyboard Library for Arduino
 
 Standard Arduino Keyboard.h library, but with added __Czech layout__<br>
 info:<br>
