@@ -34,9 +34,9 @@
 //  Keyboard
 
 // cz_CZ key  - ě, š, č, ř, ž, ý, á, í, é
-#define KEY_E_HOOK    (136+0x1f)
-#define KEY_S_HOOK       (136+0x20)
-#define KEY_C_HOOK         (136+0x21)
+#define KEY_E_HOOK      (136+0x1f)
+#define KEY_S_HOOK      (136+0x20)
+#define KEY_C_HOOK      (136+0x21)
 #define KEY_R_HOOK      (136+0x22)
 #define KEY_Z_HOOK      (136+0x23)
 #define KEY_Y_LONG      (136+0x24)
