@@ -2,7 +2,7 @@
 ### *work still in progress* 🚧
 # Keyboard Library for Arduino
 
-Standard Arduino Keyboard.h library, but with added __Czech layout__   
+Czech layout for Arduino Keyboard.h library
 ### **about**
   - layout: QWERTZ<br>
 ### **added**
