@@ -34,7 +34,8 @@ if(Serial.available() > 0){
 }
 }
 ```
-### picture of a keyboard with HID codes [*might be useful for your own layout*](https://raw.githubusercontent.com/qlyoung/armory-keyboard/master/layouts/keyboard-layout.png)
-### [modifiers and special keys](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/)
+### useful links 
+- picture of a keyboard with HID codes [*might be useful for your own layout*](https://raw.githubusercontent.com/qlyoung/armory-keyboard/master/layouts/keyboard-layout.png)
+- [modifiers and special keys](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/)
 >*I`m sure that something might not work, so any feedback is appreciated* <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e8-1f1ff.svg" alt="czech flag?" style="height: 20px;"/>
 
