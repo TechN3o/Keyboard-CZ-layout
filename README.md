@@ -4,9 +4,9 @@
 
 Czech layout for Arduino Keyboard.h library
 ### **about**
-  - layout: QWERTZ<br>
-### **added**
-  - added diacritical czech letters: ě, š, č, ř, ž,   ý, á, í, é
+  - layout: Czech QWERTZ<br>
+### **epxectations**
+  - add diacritical czech letters: ě, š, č, ř, ž,   ý, á, í, é
       - KEY_KARON_(letter: E, S, C, R, Z)
       - - `KEY_KARON_E` = *ě*
       - KEY_AKUT_(letter: Y, A, I, E)
