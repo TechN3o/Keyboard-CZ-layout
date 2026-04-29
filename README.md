@@ -1,5 +1,3 @@
-
-### *work still in progress* 🚧
 # Keyboard Library for Arduino
 
 Czech layout for Arduino Keyboard.h library
